@@ -1,0 +1,33 @@
+body{
+    font-family:Voces;
+    
+    background-color:#6391A8;
+    color: #F5D878;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family:"Cinzel Decorative";
+    font-size:5rem;
+}
+
+header {
+    text-align:center;
+}
+
+#hero, footer{
+    color: #84CFF5;
+    border: 3px solid #F5D878;
+    background-color:#6B42A8 ;
+    text-align:center;
+    padding:10px;
+}
+
+#hero img {
+    width:300px;
+}
+
+
+#bio{
+    text-align: center;
+}
+
