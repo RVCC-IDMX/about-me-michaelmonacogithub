@@ -7,8 +7,13 @@ body{
 
 h1, h2, h3, h4, h5, h6 {
     font-family:"Cinzel Decorative";
-    font-size:5rem;
+    text-align: center;
 }
+
+h1 {
+    font-size: 5rem;
+}
+
 
 header {
     text-align:center;
@@ -22,12 +27,44 @@ header {
     padding:10px;
 }
 
+
+
+/*Hero Section*/
+
 #hero img {
     width:300px;
 }
 
 
+/*Bio Section*/
 #bio{
     text-align: center;
 }
+
+/*Hobbies*/
+
+#hobbies{
+    text-align:center;
+}
+
+
+
+/* Gallery*/
+
+#gallery{
+    border: 5px solid #F5D878;
+    text-align: center;
+}
+
+#gallery img{
+    max-width: 100%;
+    clip-path: ellipse(47% 50% at 50% 50%);
+    
+}
+
+#gallery figure{
+    text-align:center;
+}
+
+
 
